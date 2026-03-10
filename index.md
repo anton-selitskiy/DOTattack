@@ -60,6 +60,218 @@ user_id=89
         Your browser does not support the audio element.
 </audio>
 
+
+## Audio Samples for many-to-many
+
+<table>
+  <tr>
+    <th>Target Speaker</th>
+    <th>From Training</th>
+    <th>From Unseen Speaker</th>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/19-227-0057.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_19.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_19.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/26-495-0086.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_26.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_26.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/27-124992-0072.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_27.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_27.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/32-21625-0000.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_32.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_32.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/39-121914-0003.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_39.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_39.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/40-222-0038.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_40.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_40.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/60-121082-0080.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_60.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_60.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/78-368-0024.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_78.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_78.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/83-3054-0004.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_83.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_83.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="Results_mult/87-121553-0103.flac" type="audio/flac">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult/converted_125_to_87.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="Results_mult_un/converted_3112_to_87.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>                
+</table>
+
+
 This page presents our paper:
 
 **Title:** Discrete Optimal Transport is a Strong Audio Adversarial Attack
