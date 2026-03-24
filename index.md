@@ -9,6 +9,7 @@
     <th>Source Speaker</th>
     <th>Target Speaker</th>
     <th>Conversion</th>
+    <th>Conversion ave-wavlm</th>
   </tr>
   <tr>
     <td>
@@ -26,6 +27,12 @@
     <td>
       <audio controls>
         <source src="outputs_kn/125-121124-0029__to__839__ref__839-130898-0065.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="outputs_kn/125-121124-0029__to__839__ref__839-130898-0065__w.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -49,6 +56,12 @@
         Your browser does not support the audio element.
       </audio>
     </td>
+    <td>
+      <audio controls>
+        <source src="outputs_kn/201-127786-0052__to__887__ref__887-123291-0008__w.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
   </tr>
   <tr>
     <td>
@@ -66,6 +79,12 @@
     <td>
       <audio controls>
         <source src="outputs_kn/250-142276-0050__to__1040__ref__1040-133433-0011.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="outputs_kn/250-142276-0050__to__1040__ref__1040-133433-0011__w.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -89,6 +108,12 @@
         Your browser does not support the audio element.
       </audio>
     </td>
+    <td>
+      <audio controls>
+        <source src="outputs_kn/298-126790-0042__to__87__ref__87-121553-0084__w.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
   </tr>
   <tr>
     <td>
@@ -106,6 +131,12 @@
     <td>
       <audio controls>
         <source src="outputs_kn/446-123501-0025__to__60__ref__60-121082-0049.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="outputs_kn/446-123501-0025__to__60__ref__60-121082-0049__w.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -259,6 +290,7 @@
     <th>Source Speaker</th>
     <th>Target Speaker</th>
     <th>Conversion</th>
+    <th>Conversion ave-wavlm</th>
   </tr>
   <tr>
     <td>
@@ -276,6 +308,12 @@
     <td>
       <audio controls>
         <source src="outputs_unk/3235-28433-0044__to__2764__ref__2764-36619-0032.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/3235-28433-0044__to__2764__ref__2764-36619-0032__w.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -299,6 +337,12 @@
         Your browser does not support the audio element.
       </audio>
     </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/3982-178459-0051__to__4397__ref__4397-15666-0006__w.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
   </tr>
   <tr>
     <td>
@@ -316,6 +360,12 @@
     <td>
       <audio controls>
         <source src="outputs_unk/4362-15663-0085__to__6209__ref__6209-34599-0008.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/4362-15663-0085__to__6209__ref__6209-34599-0008__w.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -339,6 +389,12 @@
         Your browser does not support the audio element.
       </audio>
     </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/4362-15663-0089__to__7367__ref__7367-86737-0076__w.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
   </tr>
   <tr>
     <td>
@@ -356,6 +412,12 @@
     <td>
       <audio controls>
         <source src="outputs_unk/5049-25947-0013__to__6531__ref__6531-61334-0091.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/5049-25947-0013__to__6531__ref__6531-61334-0091__w.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -379,6 +441,12 @@
         Your browser does not support the audio element.
       </audio>
     </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/8419-293469-0008__to__2893__ref__2893-139310-0040__w.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
   </tr>
   <tr>
     <td>
@@ -396,6 +464,12 @@
     <td>
       <audio controls>
         <source src="outputs_unk/8975-270782-0024__to__8238__ref__8238-283452-0022.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/8975-270782-0024__to__8238__ref__8238-283452-0022__w.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -419,6 +493,12 @@
         Your browser does not support the audio element.
       </audio>
     </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/1088-134315-0020__to__1447__ref__1447-130551-0031__w.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
   </tr>
   <tr>
     <td>
@@ -439,6 +519,12 @@
         Your browser does not support the audio element.
       </audio>
     </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/1246-124548-0000__to__2691__ref__2691-156745-0039__w.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
   </tr>
   <tr>
     <td>
@@ -456,6 +542,12 @@
     <td>
       <audio controls>
         <source src="outputs_unk/1992-141719-0011__to__7148__ref__7148-7763-0008.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="outputs_unk/1992-141719-0011__to__7148__ref__7148-7763-0008__w.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
