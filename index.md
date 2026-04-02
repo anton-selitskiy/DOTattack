@@ -4,425 +4,389 @@
 
 ## Conversion from a training speaker to a training one
 
+
 <table>
   <tr>
     <th>Source Speaker</th>
     <th>Target Speaker</th>
     <th>Conversion</th>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/5463-39173-0018.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/118-47824-0081.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/3374-298032-0034.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/60-121082-0090.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/5463-39173-0018__to__3374-298032-0034.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/118-47824-0081__to__60-121082-0090.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/6880-216547-0009.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/211-122442-0025.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/26-495-0010.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/8838-298546-0026.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/6880-216547-0009__to__26-495-0010.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/211-122442-0025__to__8838-298546-0026.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/7402-90848-0052.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/3240-131231-0038.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/8465-246942-0008.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/4014-186179-0046.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/7402-90848-0052__to__8465-246942-0008.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/3240-131231-0038__to__4014-186179-0046.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/8468-286673-0018.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/458-126290-0018.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/3436-172171-0009.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/7190-90542-0057.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/8468-286673-0018__to__3436-172171-0009.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/458-126290-0018__to__7190-90542-0057.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/26-496-0018.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/5393-19218-0004.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/7148-82991-0002.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/8419-293469-0008.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/26-496-0018__to__7148-82991-0002.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/5393-19218-0004__to__8419-293469-0008.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
-  </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/103-1240-0033.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/5456-62043-0011.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/3440-171009-0052.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/2691-156750-0032.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/103-1240-0033__to__3440-171009-0052.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/5456-62043-0011__to__2691-156750-0032.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/1098-133695-0073.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/60-121082-0045.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/481-123720-0037.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/5808-48608-0023.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/1098-133695-0073__to__481-123720-0037.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/60-121082-0045__to__5808-48608-0023.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/1447-17506-0015.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/6081-41998-0030.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/7178-34645-0014.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/8797-294123-0077.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/1447-17506-0015__to__7178-34645-0014.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/6081-41998-0030__to__8797-294123-0077.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/1898-145715-0015.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/8095-274348-0001.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/8051-119902-0011.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/7264-92316-0000.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/1898-145715-0015__to__8051-119902-0011.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/8095-274348-0001__to__7264-92316-0000.wav" type="audio/wav">
       </audio>
     </td>
-  </tr>                    
+  </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_kn/3436-172171-0010.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/8580-287364-0020.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/7278-246956-0028.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/730-358-0061.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_kn/3436-172171-0010__to__7278-246956-0028.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_kn/8580-287364-0020__to__730-358-0061.wav" type="audio/wav">
       </audio>
     </td>
-  </tr>                      
+  </tr>
+
 </table>
 
 
 ## Conversion from unseen speaker to unseen
 
+
 <table>
   <tr>
     <th>Source Speaker</th>
     <th>Target Speaker</th>
     <th>Conversion</th>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/672-122797-0053.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/1320-122617-0027.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/908-31957-0016.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/3570-5694-0003.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/672-122797-0053__to__908-31957-0016.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/1320-122617-0027__to__3570-5694-0003.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/6829-68769-0010.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/2830-3980-0051.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/5105-28233-0009.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/6829-68769-0049.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/6829-68769-0010__to__5105-28233-0009.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/2830-3980-0051__to__6829-68769-0049.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/237-126133-0007.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/2830-3980-0057.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/1284-134647-0001.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/4077-13751-0017.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/237-126133-0007__to__1284-134647-0001.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/2830-3980-0057__to__4077-13751-0017.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/237-134500-0023.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/2961-960-0006.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/1089-134686-0003.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/8224-274381-0013.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/237-134500-0023__to__1089-134686-0003.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/2961-960-0006__to__8224-274381-0013.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/672-122797-0008.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/4970-29095-0010.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/1320-122617-0001.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/2830-3980-0072.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/672-122797-0008__to__1320-122617-0001.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/4970-29095-0010__to__2830-3980-0072.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/1188-133604-0025.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/5105-28241-0004.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/6829-68771-0023.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/2830-3980-0049.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/1188-133604-0025__to__6829-68771-0023.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/5105-28241-0004__to__2830-3980-0049.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/1221-135767-0007.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/5142-36377-0013.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/7021-85628-0025.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/5683-32866-0028.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/1221-135767-0007__to__7021-85628-0025.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/5142-36377-0013__to__5683-32866-0028.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/3729-6852-0019.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/5683-32866-0020.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/7127-75947-0031.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/8463-294828-0029.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/3729-6852-0019__to__7127-75947-0031.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/5683-32866-0020__to__8463-294828-0029.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/4446-2275-0000.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/7176-92135-0022.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/1221-135767-0023.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/7729-102255-0030.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/4446-2275-0000__to__1221-135767-0023.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/7176-92135-0022__to__7729-102255-0030.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
+
   <tr>
     <td>
       <audio controls>
-        <source src="outputs_unk/5142-33396-0047.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/8224-274384-0012.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/237-126133-0020.flac" type="audio/flac">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/8230-279154-0007.flac" type="audio/flac">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="outputs_unk/5142-33396-0047__to__237-126133-0020.wav" type="audio/wav">
-        Your browser does not support the audio element.
+        <source src="outputs_unk/8224-274384-0012__to__8230-279154-0007.wav" type="audio/wav">
       </audio>
     </td>
-  </tr> 
+  </tr>
+
 </table>
+
 
 
 # Previous model with speaker ID
